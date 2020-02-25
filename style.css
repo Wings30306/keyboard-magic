@@ -1,0 +1,28 @@
+body {
+  min-height: 100vh;
+}
+
+.hogwarts {
+  background: url("images/hogwarts.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.hufflepuff {
+  background: url("images/hufflepuff.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.ravenclaw {
+  background: url("images/ravenclaw.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.slytherin {
+  background: url("images/slytherin.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.gryffindor {
+  background: url("images/gryffindor.jpg") no-repeat center center;
+  background-size: cover;
+}
